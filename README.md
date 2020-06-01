@@ -11,4 +11,4 @@ Jupyter notebook containing an exploratory data analysis on home listings and re
 Dataset provided by Zillow on kaggle.com. Link [here](https://www.kaggle.com/zillow/zecon)
 
 ### Credits
-[Kaggle] (https://www.kaggle.com/ "kaggle.com Homepage")
+[Kaggle](https://www.kaggle.com/ "kaggle.com Homepage")
